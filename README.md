@@ -1,10 +1,13 @@
+This is a fork of [quickjs-kt](https://github.com/dokar3/quickjs-kt). All credits go to [dokar3](https://github.com/dokar3) 
+
+
+
 <div align="center">
 <h1> QuickJS - KT </h1>
 <img alt="Maven Central" src="https://img.shields.io/maven-central/v/io.github.dokar3/quickjs-kt?style=flat-square&color=%23ea197e">
 <p>Run your JavaScript code in Kotlin, asynchronously.</p>
 <img src="./media/async-eval-demo.gif" alt="The async eval demo">
 </div>
-This is a fork of [quickjs-kt](https://github.com/dokar3/quickjs-kt). All credits go to [dokar3](https://github.com/dokar3) 
 
 This is a [QuickJS](https://bellard.org/quickjs/) binding for idiomatic Kotlin, inspired by Cash App's [Zipline](https://github.com/cashapp/zipline) (previously Duktape Android) but with more flexibility.
 
